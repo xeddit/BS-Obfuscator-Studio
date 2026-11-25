@@ -103,7 +103,7 @@ BS-Obfuscator Studio integrates four specialized power-user modules directly int
 Distribute your software as **one self-contained, encrypted executable**. Automatically detect and bundle referenced `.NET` DLLs from your target assembly folder, or drag and drop specific `.dll` dependencies directly into the queue.
 
 <div align="center">
-  <img src="https://i.imgur.com/8QqDHFj.png" alt="Single-EXE .NET DLL Packer Studio" width="90%" />
+  <img src="https://i.imgur.com/2z7YAuV.png" alt="Single-EXE .NET DLL Packer Studio" width="90%" />
 </div>
 
 ---
@@ -119,7 +119,7 @@ Includes **1-click ready-to-use templates**:
 - **MsgBox Gates &amp; Notices** — `Startup Notice`, `Timed Delay (5s)`, `Loop / Interval`, and `Confirm / EULA Gate`.
 
 <div align="center">
-  <img src="https://i.imgur.com/iy0oHZe.png" alt="Custom C# Startup Code Injector Studio" width="90%" />
+  <img src="https://i.imgur.com/iB8Q7Bk.png" alt="Custom C# Startup Code Injector Studio" width="90%" />
 </div>
 
 ---
@@ -129,7 +129,7 @@ Includes **1-click ready-to-use templates**:
 Protect your codebase aggressively without breaking JSON serialization, reflection, or public SDK boundaries. Inspect loaded assembly types visually with live filtering, or define wildcard rules (such as `MyNamespace.Models.*; JsonConfig; OnSerialize`).
 
 <div align="center">
-  <img src="https://i.imgur.com/P1vhT1h.png" alt="Exclusions and Assembly Type Inspector" width="90%" />
+  <img src="https://i.imgur.com/VIKLRQs.png" alt="Exclusions and Assembly Type Inspector" width="90%" />
 </div>
 
 ---
@@ -139,7 +139,7 @@ Protect your codebase aggressively without breaking JSON serialization, reflecti
 Inspect every stage of the protection pipeline in real time through the built-in diagnostic execution console, with timestamped logs and one-click log export.
 
 <div align="center">
-  <img src="https://i.imgur.com/TuobVRh.png" alt="Badsector Live Protection Console" width="90%" />
+  <img src="https://i.imgur.com/8QqDHFj.png" alt="Badsector Live Protection Console" width="90%" />
 </div>
 
 ---
@@ -154,7 +154,7 @@ Deploy proven protection profiles in one click or publish your own verified setu
 - **Badsector Maximum Commercial v2** — Full 24-layer protection featuring 3-Gate ARX strings, Dynamic Delegate Proxy, EH-safe Control Flow Flattening, and SHA-256 Anti-Tamper.
 
 <div align="center">
-  <img src="https://i.imgur.com/2z7YAuV.png" alt="Shared Cloud Presets and Community Configurations" width="90%" />
+  <img src="https://i.imgur.com/iy0oHZe.png" alt="Shared Cloud Presets and Community Configurations" width="90%" />
 </div>
 
 ---
@@ -164,7 +164,7 @@ Deploy proven protection profiles in one click or publish your own verified setu
 Every build is automatically archived in your personal **Vault** together with its `_mapping.txt` symbol map, SHA-256 seal, build duration, size delta, exact layer telemetry (types, methods, strings, consts, CFF blocks, proxies), and configuration backup.
 
 <div align="center">
-  <img src="https://i.imgur.com/VIKLRQs.png" alt="Local Protected Binaries Vault and Build History" width="90%" />
+  <img src="https://i.imgur.com/TuobVRh.png" alt="Local Protected Binaries Vault and Build History" width="90%" />
 </div>
 
 ---
@@ -174,7 +174,7 @@ Every build is automatically archived in your personal **Vault** together with i
 Track your personal Studio metrics alongside live global network telemetry, manage your hardware-bound license, and stay synchronized with Badsector Cloud updates.
 
 <div align="center">
-  <img src="https://i.imgur.com/iB8Q7Bk.png" alt="Profile, Licensing and Global Telemetry" width="90%" />
+  <img src="https://i.imgur.com/K6oTiIC.png" alt="Profile, Licensing and Global Telemetry" width="90%" />
 </div>
 
 ---
