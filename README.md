@@ -25,7 +25,7 @@
 
 <br/>
 
-![BS-Obfuscator Studio — Main Protection Pipeline](assets/pipeline.gif)
+![BS-Obfuscator Studio — Main Protection Pipeline](pipeline.gif)
 
 
 </div>
