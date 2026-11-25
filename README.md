@@ -1,6 +1,6 @@
 <div align="center">
 
-# BADSECTOR — BS-Obfuscator Studio
+# BADSECTOR | BS-Obfuscator Studio
 
 ### Commercial C# / .NET Protection & Anti-Reverse-Engineering Suite
 
@@ -25,7 +25,7 @@
 
 <br/>
 
-<img src="https://i.imgur.com/P1vhT1h.png" alt="BS-Obfuscator Studio — Main Protection Pipeline" width="100%" />
+<img src="https://i.imgur.com/VuA5i0N.gif" alt="BS-Obfuscator Studio — Main Protection Pipeline" width="100%" />
 
 </div>
 
